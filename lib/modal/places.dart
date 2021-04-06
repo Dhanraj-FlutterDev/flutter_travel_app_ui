@@ -1,0 +1,1 @@
+import 'package:flutter/cupertino.dart';class Places{  final String placeName;  final String price;  final AssetImage assetImage;  Places({this.placeName, this.price, this.assetImage});}
